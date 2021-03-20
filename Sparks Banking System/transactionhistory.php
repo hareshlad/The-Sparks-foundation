@@ -63,6 +63,8 @@
 <footer class="text-center mt-5 py-2">
 <p>&copy 2021. Made by <b>HARESH LAD</b> </p>
 </footer>
-
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+   
 </body>
 </html>
